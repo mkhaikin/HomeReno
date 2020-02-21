@@ -93,7 +93,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #242943;
+		background: #432429;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -3139,7 +3139,7 @@ input, select, textarea {
 				-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 				transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 				background-color: #ffffff;
-				color: #242943;
+				color: #432429;
 				display: inline-block;
 				line-height: 1.65em;
 				margin-right: 0.325em;
